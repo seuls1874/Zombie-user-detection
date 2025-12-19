@@ -18,9 +18,8 @@
 
 * https://botometer.osome.iu.edu/bot-repository/datasets.html?utm_source=chatgpt.com
 * **Genuine Users**：真实用户
-* **Social Spambots**：社交型僵尸用户
-* 数据包含用户信息、推文文本等
-* 数据格式复杂，需要解压 CSV 并按用户聚合推文
+* **Social Spambots**：僵尸用户
+* 数据包含用户信息、推文文本
 
 ---
 

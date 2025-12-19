@@ -1,5 +1,4 @@
 # datasets
 data/
-fakhraei_kdd2015-master/
-*.csc
+*.csv
 *.zip

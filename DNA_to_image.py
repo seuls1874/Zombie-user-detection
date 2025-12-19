@@ -1,4 +1,4 @@
-# generate_dna_images.py
+# DNA_to_images.py
 import pandas as pd
 import numpy as np
 import os

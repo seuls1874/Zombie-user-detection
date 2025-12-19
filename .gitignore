@@ -2,3 +2,6 @@
 data/
 *.csv
 *.zip
+
+# cache
+dna_images/
